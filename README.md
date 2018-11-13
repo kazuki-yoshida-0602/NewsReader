@@ -1,0 +1,2 @@
+# NewsReader
+Swiftアプリの練習
